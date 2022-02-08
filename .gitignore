@@ -1,0 +1,44 @@
+allFiles
+files
+
+#nft-storage
+
+nft-storage/node_modules
+nft-storage/.env
+nft-storage/coverage
+nft-storage/coverage.json
+nft-storage/typechain
+
+#Hardhat files
+nft-storage/cache
+nft-storage/artifacts
+
+nft-storage/.openzeppelin/unknown-31337.json
+
+#web3-storage
+
+web3-storage-quickstart/node_modules
+web3-storage-quickstart/.env
+web3-storage-quickstart/coverage
+web3-storage-quickstart/coverage.json
+web3-storage-quickstart/typechain
+
+#Hardhat files
+web3-storage-quickstart/cache
+web3-storage-quickstart/artifacts
+
+web3-storage-quickstart/.openzeppelin/unknown-31337.json
+
+#pinata
+
+pinata/node_modules
+pinata/.env
+pinata/coverage
+pinata/coverage.json
+pinata/typechain
+
+#Hardhat files
+pinata/cache
+pinata/artifacts
+
+pinata/.openzeppelin/unknown-31337.json
